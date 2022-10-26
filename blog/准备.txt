@@ -1,0 +1,34 @@
+github
+vs code 配置环境及其使用快捷键
+python
+linux
+
+
+
+HBuilderX  前端开发工具
+配合uni app 开发轻便可视化程序（今日校园/小程序）
+
+
+下载不同版本的git
+https://registry.npmmirror.com/binary.html?path=git-for-windows/
+
+
+cnpm安装过程问题（管理员模式运行）
+https://blog.csdn.net/qq_43012792/article/details/108973025
+
+
+cnpm环境的一些配置
+https://blog.csdn.net/weixin_48644913/article/details/111397411
+
+SSH配置
+https://blog.csdn.net/qq_36667170/article/details/79094257
+
+hexo一建配置教程
+https://hexoscript.gitbook.io/hexo-script/v/1.3-1/shi-yong-bu-zhou/yi-jian-bu-shu-hexo-bo-ke
+
+部署问题
+https://blog.csdn.net/weixin_43998246/article/details/119219675
+
+端口问题
+https://blog.csdn.net/s740556472/article/details/80318886
+https://blog.csdn.net/qq_32114025/article/details/86132451
